@@ -1,0 +1,23 @@
+
+
+body{
+    background-color: #96d6d0; 
+}
+
+/* #navbarText{
+    position: relative;
+    margin: 10px;
+    padding-right: 10px;
+} */
+
+
+#sign{
+    position: absolute;
+    margin: 2px;
+    width: 50%;
+    display: inline-block;
+    top: 200px;
+    left: 250px;
+    align-items: center;
+    justify-content: center;
+}
